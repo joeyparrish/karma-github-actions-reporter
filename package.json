@@ -1,6 +1,6 @@
 {
   "name": "karma-github-actions-reporter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Karma plugin to report failed tests via GitHub Actions annotations.",
   "main": "index.js",
   "scripts": {
